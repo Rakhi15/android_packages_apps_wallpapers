@@ -2,5 +2,6 @@
 
 Credits:
 
-#Wallpapers @pritish joshi
-#App with kotlin @Rakhi15 (Rakesh Kommula)
+<li>Wallpapers @pritish joshi
+
+<li>App with kotlin @Rakhi15 (Rakesh Kommula)
